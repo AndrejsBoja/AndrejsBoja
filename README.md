@@ -6,7 +6,7 @@
 
 ---
 
-- 🔭 I’m currently working on couple personal projects
+- 🔭 I’m currently working on Codelex homework- FlightPlanner and couple personal projects
 - 🌱 I’m currently learning .NET and JavaScript
 - 📫 How to reach me: andrejs.boja@gmail.com
 
